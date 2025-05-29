@@ -52,7 +52,9 @@ Semua pendekatan dievaluasi dengan metrik accuracy dan F1-score untuk memastikan
 
 # Data Understanding
 Proyek ini menggunakan dataset yang dikumpulkan dari berbagai sumber publik, termasuk happy_db, train.txt, val.txt, test.txt, stress_dataset.txt, dan dataset_negatif.txt. Dataset ini berisi teks dalam bahasa Indonesia dengan label emosi (happy, sadness, fear, stress). Dataset dapat diakses melalui tautan berikut:
-https://github.com/Sidqiamn/Dataset_Capstone_LaskarAI
+- https://github.com/Sidqiamn/Dataset_Capstone_LaskarAI
+- https://www.kaggle.com/datasets/ritresearch/happydb
+- https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp)
 
 ## Variabel pada Dataset
 - text: Teks dalam bahasa Indonesia yang mengungkapkan emosi (contoh: "Saya sangat senang hari ini karena lulus ujian!").  
