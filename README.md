@@ -12,7 +12,7 @@ Proyek ini bertujuan mengembangkan sistem klasifikasi emosi berbasis teks dalam 
 Masalah ini signifikan karena deteksi emosi yang akurat dapat meningkatkan pengalaman pengguna, mendukung intervensi kesehatan mental melalui aplikasi mobile, dan memperkuat analisis sentimen untuk bisnis lokal. Pendekatan hybrid mengatasi keterbatasan metode berbasis kata kunci yang kurang adaptif, dengan memadukan konteks semantik DistilBERT dan pola kata eksplisit TF-IDF. Model diuji pada teks berlatar budaya Indonesia untuk memastikan relevansi, dengan evaluasi menggunakan metrik accuracy dan F1-score untuk menjamin performa andal.
 
 Referensi:  
-Acheampong, F. A., Wenyu, C., & Nunoo-Mensah, H. (2021). Text-based emotion detection: Advances, challenges, and opportunities. Engineering Reports, 3(7), e12389. https://doi.org/10.1002/eng2.12389  
+Acheampong, F. A., Wenyu, C., & Nunoo-Mensah, H. (2021). Text-based emotion detection: Advances, challenges, and opportunities. Engineering Reports, 3(7), e12389.
 
 Poria, S., Hazarika, D., Majumder, N., & Mihalcea, R. (2020). Beneath the tip of the iceberg: Current challenges and new directions in sentiment analysis research. IEEE Transactions on Affective Computing, 12(1), 108–123. https://doi.org/10.1109/TAFFC.2020.3038167  
 
